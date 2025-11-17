@@ -48,7 +48,7 @@ VotingFacade (main)   : 0x080b2492B403758aDe9a249FDf245302C860BD63
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/suhail-256/Blockchain-based-eVoting.git
 cd Blockchain-based-eVoting
 ```
 
